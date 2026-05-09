@@ -1,5 +1,5 @@
 # Hi, I'm Petar 👋
-### Senior Software Engineer & Data Architect
+### Software Engineer & Data Architect
 
 I am a results-driven engineer with a unique background in **Retail Operations Management**. I specialize in bridging the gap between complex business logic and high-performance software architecture.
 
