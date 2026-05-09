@@ -6,13 +6,13 @@ I am a results-driven engineer with a unique background in **Retail Operations M
 ---
 
 ### 🚀 Key Professional Milestones
-* **OmniView ERP:** Architected and deployed a modular ERP system from scratch, reducing administrative overhead by **40%**.
-* **NetSync (BSWorker):** Engineered a high-reliability infrastructure tool for automated SQL replication and VPN tunneling, ensuring **99.9% data consistency**.
+* **ERP system:** Architected and deployed a modular ERP system from scratch, reducing administrative overhead by **40%**.
+* **NetSync:** Engineered a high-reliability infrastructure tool for automated SQL replication and VPN tunneling, ensuring **99.9% data consistency**.
 * **AI & Computer Vision:** Implementing **YOLO** models for real-time retail analytics and operational efficiency.
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, SQL (MySQL/PostgreSQL), JavaScript (ES6+), C#, VBA.
-* **Frameworks/Tools:** React Native, PyTorch, Ultralytics YOLO, Google Apps Script.
+* **Languages:** Python, SQL (MySQL/PostgreSQL), JavaScript, C#, VBA.
+* **Frameworks/Tools:** React Native, PyTorch, Google Apps Script.
 * **Data & BI:** Power BI (DAX), Database Design, System Integration.
 
 ---
